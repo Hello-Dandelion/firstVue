@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Microsoft YaHei";
+}
+input,button{
+  border-radius: 3px;
+}
+input{
+  border: 1px solid #ccc;
+  -webkit-appearance: none;
+}
+button{
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+ul{
+  list-style: none;
+}
+a,a:focus{
+  text-decoration: none;
+}

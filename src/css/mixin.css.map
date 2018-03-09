@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,SAAO;EAFL,SAAS,EAGS,IAAI",
+"sources": ["mixin.scss"],
+"names": [],
+"file": "mixin.css"
+}

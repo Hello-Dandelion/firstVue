@@ -1,0 +1,6 @@
+@mixin fontSize($size:14px){
+  font-size: $size;
+}
+.nav>li{
+  @include fontSize(12px);
+}
